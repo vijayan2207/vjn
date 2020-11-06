@@ -1,4 +1,4 @@
-package practice.program.calc;
+package calc;
 
 interface Operator
 {

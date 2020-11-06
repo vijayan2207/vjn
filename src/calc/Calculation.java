@@ -1,4 +1,4 @@
-package practice.program.calc;
+package calc;
 
 class Calculation implements Operator
 {

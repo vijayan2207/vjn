@@ -1,4 +1,5 @@
-package practice.program.calc;
+package calc;
+
 import java.util.*;
 
 class MainCalculator
